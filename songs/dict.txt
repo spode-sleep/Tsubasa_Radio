@@ -1,0 +1,18 @@
+Very bad music|Действительно очень плохая музыка|other
+Skeletal Dance Party|Саундтрек Skeletal Dance Party|sdp
+Transistor|Саундтрек Transistor|transistor
+Bastion|Саундтрек Bastion|bastion
+Pyre|Саундтрек Pyre|pyre
+Space Rangers 2|Саундтрек Космических Рейнджеров 2: Революция|sr
+Hacknet|Саундтрек Hacknet|hacknet
+Hacknet Labyrinth|Саундтрек Hacknet Labyrinth|hacknet_lab
+3030 Death War Vocal|Вокальный саундтрек 3030 Death War|death_war_vocal
+3030 Death War|Эмбиенты 3030 Death War|death_war
+Layers of Fear|Саундтрек Layers of Fear|l_of_f
+Crypt of the NecroDancer|Саундтрек Crypt of the NecroDancer|crypt
+Crypt of the NecroDancer: The Melody Mikes|Ремиксы саундтрека Crypt of the NecroDancer|crypt_remixes
+Crypt of the NecroDancer: Freestyle Retro|Ремиксы саундтрека Crypt of the NecroDancer|crypt_retro
+Crypt of the NecroDancer: The Synthwave Cuts|Ремиксы саундтрека Crypt of the NecroDancer|crypt_synthwave
+Crypt of the NecroDancer: Aria's Ascent|Ремиксы саундтрека Crypt of the NecroDancer|crypt_rock
+Terrorhytm|Саундтрек Terrorhytm|trrt
+Everspace|Саундтрек EVERSPACE|everspace
