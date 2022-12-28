@@ -1,2 +1,2 @@
 # Tsubasa_Radio
-Simple discord bot with few custom features
+Simple discord bot with a few custom features
